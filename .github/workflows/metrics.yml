@@ -18,7 +18,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           
-          user: 6xtvo
+          user: 14yao
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Pacific/Auckland
